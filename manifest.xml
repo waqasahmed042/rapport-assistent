@@ -5,7 +5,7 @@
   <ProviderName>Rapport assistent</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Rapport assistent"/>
-  <Description DefaultValue="A template to get started with Rapport assistent."/>
+  <Description DefaultValue="En mal for å komme i gang med Rapport-assistenten."/>
   <IconUrl DefaultValue="https://waqasahmed042.github.io/rapport-assistent/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://waqasahmed042.github.io/rapport-assistent/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
@@ -78,13 +78,13 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://waqasahmed042.github.io/rapport-assistent/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Get started with Rapport assistent."/>
+        <bt:String id="GetStarted.Title" DefaultValue="Kom i gang med Rapport-assistenten."/>
         <bt:String id="CommandsGroup.Label" DefaultValue="Add-in"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Rapport assistent"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="GetStarted.Description" DefaultValue="Your Rapport assistent add-in loaded successfully. Go to the HOME tab and click the 'Rapport assistent' button to get started."/>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Click to Show a Rapport assistent Task Pane"/>
+        <bt:String id="GetStarted.Description" DefaultValue="Rapportassistent-tillegget ditt ble lastet inn. Gå til HJEM-fanen og klikk på «Rapportassistent»-knappen for å komme i gang."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Klikk for å vise en oppgaverute for Rapport-assistenten"/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
